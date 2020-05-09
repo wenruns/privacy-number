@@ -1,0 +1,22 @@
+{
+  "name": "wenruns/privacy-number",
+  "description": "Huawei privacy number development.",
+  "license": "MIT",
+  "homepage": "https://github.com/wenruns/privacy-number.git",
+  "keywords": [
+  ],
+  "authors": [
+    {
+      "name": "wenruns",
+      "email": "1562194488@qq.com"
+    }
+  ],
+  "require": {
+ 
+  },
+  "autoload": {
+    "psr-4": {
+      "Wenruns\\PrivacyNumber\\": "src/"
+    }
+  }
+}
